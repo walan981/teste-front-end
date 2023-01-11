@@ -1,0 +1,12 @@
+{
+  "produtos": [
+    {
+      "nome": "pizza",
+      "fabricacao": "2023-01-11",
+      "perecivel": true,
+      "validade": "2023-03-16",
+      "preco": "12",
+      "id": 1
+    }
+  ]
+}
